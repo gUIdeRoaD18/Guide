@@ -1,0 +1,7 @@
+
+train: ../train_data/train/images  # train images (relative to 'path') 128 images
+val: ../train_data/val/images  # val images (relative to 'path') 128 images
+
+# Classes
+nc: 1  # number of classes
+names: ['sidewalk']  # class names
