@@ -10,3 +10,6 @@
 
 
 ### yolov5 ###
+----------
+* 사용한 weight
+    + https://drive.google.com/file/d/1q2mc5-_yP1-_UW_XVv8C_kihY443b6V_/view?usp=sharing
