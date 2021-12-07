@@ -35,7 +35,7 @@ CODE           학습에 필요한 소스코드 디렉토리
 
 ### 보고서 ###
 ----------
-+ 프로젝트 신청서
++ 프로젝트 신청서(https://github.com/gUIdeRoaD18/Guide/blob/main/Project/21%EB%85%84%202%ED%95%99%EA%B8%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4-%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C-Guide(%EA%B0%95%EB%AF%BC%EC%A3%BC).hwp)
 + 중간보고서
 + 결과보고서
 
