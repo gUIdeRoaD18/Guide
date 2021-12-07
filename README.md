@@ -51,7 +51,7 @@ CODE           학습에 필요한 소스코드 디렉토리
    + 보고서7
    + 보고서8
    + 보고서9
-   + 보고서10
+   + 보고서10(https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C10)
 
 ### yolov5 ###
 ----------
