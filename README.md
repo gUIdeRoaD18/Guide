@@ -41,16 +41,16 @@ CODE           학습에 필요한 소스코드 디렉토리
 
 ### 진행사항 ###
 ----------
-+ Report
-   + 보고서1
-   + 보고서2
-   + 보고서3
-   + 보고서4
-   + 보고서5
-   + 보고서6
-   + 보고서7
-   + 보고서8
-   + 보고서9
++ [Report](https://github.com/gUIdeRoaD18/Guide/tree/main/Report)
+   + [보고서1](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C1)
+   + [보고서2](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C2)
+   + [보고서3](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C3)
+   + [보고서4](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C%204)
+   + [보고서5](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C5)
+   + [보고서6](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C6)
+   + [보고서7](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C7)
+   + [보고서8](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C8)
+   + [보고서9](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C9)
    + [보고서10](https://github.com/gUIdeRoaD18/Guide/tree/main/Report/%EB%B3%B4%EA%B3%A0%EC%84%9C10)
 
 ### yolov5 ###
